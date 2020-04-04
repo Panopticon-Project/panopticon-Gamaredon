@@ -7,3 +7,5 @@ https://securityaffairs.co/wordpress/84430/apt/gamaredon-ukrainian-mod-campaign.
 https://www.difesaesicurezza.com/en/cyber-en/cyber-espionage-gamaredon-targets-again-ukraine-with-new-tools/
 
 https://securityaffairs.co/wordpress/97992/apt/gamaredon-espionage-campaign.html
+
+https://yoroi.company/research/cyberwarfare-a-deep-dive-into-the-latest-gamaredon-espionage-campaign/

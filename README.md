@@ -13,3 +13,5 @@ https://yoroi.company/research/cyberwarfare-a-deep-dive-into-the-latest-gamaredo
 https://blog.trendmicro.com/trendlabs-security-intelligence/gamaredon-apt-group-use-covid-19-lure-in-campaigns/
 
 https://securelist.com/apt-trends-report-q1-2020/96826/
+
+https://www.securityweek.com/russian-gamaredon-hackers-back-targeting-ukraine-officials

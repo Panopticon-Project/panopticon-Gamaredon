@@ -15,3 +15,5 @@ https://blog.trendmicro.com/trendlabs-security-intelligence/gamaredon-apt-group-
 https://securelist.com/apt-trends-report-q1-2020/96826/
 
 https://www.securityweek.com/russian-gamaredon-hackers-back-targeting-ukraine-officials
+
+https://www.welivesecurity.com/2020/06/11/gamaredon-group-grows-its-game/

@@ -17,3 +17,5 @@ https://securelist.com/apt-trends-report-q1-2020/96826/
 https://www.securityweek.com/russian-gamaredon-hackers-back-targeting-ukraine-officials
 
 https://www.welivesecurity.com/2020/06/11/gamaredon-group-grows-its-game/
+
+https://www.welivesecurity.com/wp-content/uploads/2020/10/ESET_Threat_Report_Q32020.pdf

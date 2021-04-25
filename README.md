@@ -21,3 +21,5 @@ https://www.welivesecurity.com/2020/06/11/gamaredon-group-grows-its-game/
 https://www.welivesecurity.com/wp-content/uploads/2020/10/ESET_Threat_Report_Q32020.pdf
 
 https://www.scmagazine.com/home/security-news/apts-cyberespionage/cisco-points-to-new-tier-of-apt-actors-that-behave-more-like-cybercriminals/
+
+https://www.anomali.com/blog/primitive-bear-gamaredon-targets-ukraine-with-timely-themes

@@ -23,3 +23,5 @@ https://www.welivesecurity.com/wp-content/uploads/2020/10/ESET_Threat_Report_Q32
 https://www.scmagazine.com/home/security-news/apts-cyberespionage/cisco-points-to-new-tier-of-apt-actors-that-behave-more-like-cybercriminals/
 
 https://www.anomali.com/blog/primitive-bear-gamaredon-targets-ukraine-with-timely-themes
+
+https://www.welivesecurity.com/wp-content/uploads/2021/09/eset_threat_report_t22021.pdf

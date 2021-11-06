@@ -25,3 +25,5 @@ https://www.scmagazine.com/home/security-news/apts-cyberespionage/cisco-points-t
 https://www.anomali.com/blog/primitive-bear-gamaredon-targets-ukraine-with-timely-themes
 
 https://www.welivesecurity.com/wp-content/uploads/2021/09/eset_threat_report_t22021.pdf
+
+https://securityaffairs.co/wordpress/124231/apt/fsb-members-gamaredon-doxed.html

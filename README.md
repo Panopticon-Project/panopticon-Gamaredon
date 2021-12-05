@@ -27,3 +27,7 @@ https://www.anomali.com/blog/primitive-bear-gamaredon-targets-ukraine-with-timel
 https://www.welivesecurity.com/wp-content/uploads/2021/09/eset_threat_report_t22021.pdf
 
 https://securityaffairs.co/wordpress/124231/apt/fsb-members-gamaredon-doxed.html
+
+https://therecord.media/apt-groups-from-china-russia-and-india-adopt-novel-attack-technique/
+
+https://www.proofpoint.com/us/blog/threat-insight/injection-new-black-novel-rtf-template-inject-technique-poised-widespread

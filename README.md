@@ -31,3 +31,5 @@ https://securityaffairs.co/wordpress/124231/apt/fsb-members-gamaredon-doxed.html
 https://therecord.media/apt-groups-from-china-russia-and-india-adopt-novel-attack-technique/
 
 https://www.proofpoint.com/us/blog/threat-insight/injection-new-black-novel-rtf-template-inject-technique-poised-widespread
+
+https://www.securityweek.com/more-russian-attacks-against-ukraine-come-light

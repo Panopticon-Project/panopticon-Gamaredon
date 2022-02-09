@@ -1,5 +1,7 @@
 # panopticon-Gamaredon
 
+https://www.securityweek.com/microsoft-symantec-share-notes-russian-hacks-hitting-ukraine
+
 https://securityaffairs.co/wordpress/94792/apt/gamaredon-target-ukraine.html
 
 https://securityaffairs.co/wordpress/84430/apt/gamaredon-ukrainian-mod-campaign.html

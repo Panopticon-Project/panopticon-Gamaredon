@@ -35,3 +35,5 @@ https://therecord.media/apt-groups-from-china-russia-and-india-adopt-novel-attac
 https://www.proofpoint.com/us/blog/threat-insight/injection-new-black-novel-rtf-template-inject-technique-poised-widespread
 
 https://www.securityweek.com/more-russian-attacks-against-ukraine-come-light
+
+https://therecord.media/ukrainian-cert-details-russia-linked-phishing-attacks-targeting-government-officials

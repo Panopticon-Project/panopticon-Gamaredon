@@ -37,3 +37,5 @@ https://www.proofpoint.com/us/blog/threat-insight/injection-new-black-novel-rtf-
 https://www.securityweek.com/more-russian-attacks-against-ukraine-come-light
 
 https://therecord.media/ukrainian-cert-details-russia-linked-phishing-attacks-targeting-government-officials
+
+https://securityaffairs.co/wordpress/130419/apt/gamaredon-targets-ukraine.html

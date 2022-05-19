@@ -39,3 +39,5 @@ https://www.securityweek.com/more-russian-attacks-against-ukraine-come-light
 https://therecord.media/ukrainian-cert-details-russia-linked-phishing-attacks-targeting-government-officials
 
 https://securityaffairs.co/wordpress/130419/apt/gamaredon-targets-ukraine.html
+
+https://securityaffairs.co/wordpress/131296/breaking-news/cert-ua-warns-armageddon-apt.html

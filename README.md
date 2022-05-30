@@ -41,3 +41,5 @@ https://therecord.media/ukrainian-cert-details-russia-linked-phishing-attacks-ta
 https://securityaffairs.co/wordpress/130419/apt/gamaredon-targets-ukraine.html
 
 https://securityaffairs.co/wordpress/131296/breaking-news/cert-ua-warns-armageddon-apt.html
+
+https://securityaffairs.co/wordpress/131762/apt/gamaredon-apt-ddos-attacks.html

@@ -45,3 +45,5 @@ https://securityaffairs.co/wordpress/131296/breaking-news/cert-ua-warns-armagedd
 https://securityaffairs.co/wordpress/131762/apt/gamaredon-apt-ddos-attacks.html
 
 http://blog.nsfocus.net/gamaredon/
+
+https://therecord.media/russian-hackers-targeted-petroleum-refining-company-in-nato-state/

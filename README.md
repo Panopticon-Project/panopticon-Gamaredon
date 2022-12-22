@@ -47,3 +47,5 @@ https://securityaffairs.co/wordpress/131762/apt/gamaredon-apt-ddos-attacks.html
 http://blog.nsfocus.net/gamaredon/
 
 https://therecord.media/russian-hackers-targeted-petroleum-refining-company-in-nato-state/
+
+https://unit42.paloaltonetworks.com/trident-ursa/

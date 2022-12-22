@@ -49,3 +49,5 @@ http://blog.nsfocus.net/gamaredon/
 https://therecord.media/russian-hackers-targeted-petroleum-refining-company-in-nato-state/
 
 https://unit42.paloaltonetworks.com/trident-ursa/
+
+https://twitter.com/Anton15001398/status/1496798808063234055 - the account is still live at time of saving this
